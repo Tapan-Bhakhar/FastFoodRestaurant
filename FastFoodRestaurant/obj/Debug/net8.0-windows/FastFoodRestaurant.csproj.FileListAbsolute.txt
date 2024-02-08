@@ -1,0 +1,17 @@
+E:\.Net Course\FastFoodRestaurant\FastFoodRestaurant\bin\Debug\net8.0-windows\FastFoodRestaurant.exe
+E:\.Net Course\FastFoodRestaurant\FastFoodRestaurant\bin\Debug\net8.0-windows\FastFoodRestaurant.deps.json
+E:\.Net Course\FastFoodRestaurant\FastFoodRestaurant\bin\Debug\net8.0-windows\FastFoodRestaurant.runtimeconfig.json
+E:\.Net Course\FastFoodRestaurant\FastFoodRestaurant\bin\Debug\net8.0-windows\FastFoodRestaurant.dll
+E:\.Net Course\FastFoodRestaurant\FastFoodRestaurant\bin\Debug\net8.0-windows\FastFoodRestaurant.pdb
+E:\.Net Course\FastFoodRestaurant\FastFoodRestaurant\obj\Debug\net8.0-windows\FastFoodRestaurant.Form1.resources
+E:\.Net Course\FastFoodRestaurant\FastFoodRestaurant\obj\Debug\net8.0-windows\FastFoodRestaurant.csproj.GenerateResource.cache
+E:\.Net Course\FastFoodRestaurant\FastFoodRestaurant\obj\Debug\net8.0-windows\FastFoodRestaurant.GeneratedMSBuildEditorConfig.editorconfig
+E:\.Net Course\FastFoodRestaurant\FastFoodRestaurant\obj\Debug\net8.0-windows\FastFoodRestaurant.AssemblyInfoInputs.cache
+E:\.Net Course\FastFoodRestaurant\FastFoodRestaurant\obj\Debug\net8.0-windows\FastFoodRestaurant.AssemblyInfo.cs
+E:\.Net Course\FastFoodRestaurant\FastFoodRestaurant\obj\Debug\net8.0-windows\FastFoodRestaurant.csproj.CoreCompileInputs.cache
+E:\.Net Course\FastFoodRestaurant\FastFoodRestaurant\obj\Debug\net8.0-windows\FastFoodRestaurant.dll
+E:\.Net Course\FastFoodRestaurant\FastFoodRestaurant\obj\Debug\net8.0-windows\refint\FastFoodRestaurant.dll
+E:\.Net Course\FastFoodRestaurant\FastFoodRestaurant\obj\Debug\net8.0-windows\FastFoodRestaurant.pdb
+E:\.Net Course\FastFoodRestaurant\FastFoodRestaurant\obj\Debug\net8.0-windows\FastFoodRestaurant.genruntimeconfig.cache
+E:\.Net Course\FastFoodRestaurant\FastFoodRestaurant\obj\Debug\net8.0-windows\ref\FastFoodRestaurant.dll
+E:\.Net Course\FastFoodRestaurant\FastFoodRestaurant\obj\Debug\net8.0-windows\FastFoodRestaurant.Properties.Resources.resources
